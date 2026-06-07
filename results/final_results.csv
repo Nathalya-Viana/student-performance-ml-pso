@@ -1,0 +1,2 @@
+svm_orig_hold_R2,svm_orig_hold_MAE,svm_prep_hold_R2,svm_prep_hold_MAE,rfr_orig_hold_R2,rfr_orig_hold_MAE,rfr_prep_hold_R2,rfr_prep_hold_MAE,wilcoxon_svm_stat,wilcoxon_svm_p,wilcoxon_rfr_stat,wilcoxon_rfr_p,best_run_idx_svm_orig,best_run_idx_svm_prep,best_run_idx_rfr_orig,best_run_idx_rfr_prep
+0.8054076335728526,1.0291681867366194,0.8022333882412841,0.9022808694059308,0.8227226387826192,0.9279911482529113,0.780142619452389,1.0443918044123033,0.0,1.862645149230957e-09,0.0,1.862645149230957e-09,17,26,4,15
